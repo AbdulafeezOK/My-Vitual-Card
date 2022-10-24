@@ -4,7 +4,6 @@
   text-align: center;
   margin: 18px;
   box-shadow:  0 2px 5px #ccc;
-  padding: 16px;
   border-radius: 10px;
   box-sizing: border-box;
   background-color: #282c34;
@@ -13,38 +12,9 @@
   font-family: "Poppins";
   line-height: 1.4;
 }
-
-.Header {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: space-between;
-  padding: 1rem;
-}
-.App-logo {
-  font-size: calc(15px + 2vmin);
-  font-weight: 800;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.CardMi {
-  max-width: 80%;
-  border-radius: 0 10px 0 25px;
-}
 .About {
   max-width: 80%;
   margin: 15px auto;
-}
-.Ptext::before {
-  content: '[ ';
-}
-.Ptext::after {
-  content: ' ]';
-}
-.Self {
-  text-align: center;
-  font-style: oblique;
-  font-size: 25px;
-  font-weight: 800;
 }
 .Social {
   padding: 10px;

@@ -1,0 +1,11 @@
+.CardMi {
+    max-width: 80%;
+    border-radius: 0 10px 0 25px;
+  }
+  .Self {
+    text-align: center;
+    font-style: oblique;
+    font-size: 25px;
+    font-weight: 800;
+  }
+  

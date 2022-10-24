@@ -1,5 +1,6 @@
 import React from 'react';
-import cardImg from '../assets/email.png';
+import cardImg from '../../assets/email.png';
+import '../Header/Header.css'
 
 function Header() {
   return (

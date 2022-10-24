@@ -1,6 +1,7 @@
 import React from 'react';
-import About from './About';
-import cardImg from '../assets/okunlola.jpeg';
+import About from '../About/About';
+import cardImg from '../../assets/okunlola.jpeg';
+import '../Main/Main.css'
 
 function Main() {
   return (

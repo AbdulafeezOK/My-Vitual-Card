@@ -1,9 +1,10 @@
 import React from 'react';
-import Facebook from '../assets/facebook.png'
-import Instagram from '../assets/instagram.png'
-import Twitter from '../assets/twitter.png'
-import Linkedin from '../assets/linkedin.png'
-import Whatsapp from '../assets/whatsapp.png'
+import Facebook from '../../assets/facebook.png'
+import Instagram from '../../assets/instagram.png'
+import Twitter from '../../assets/twitter.png'
+import Linkedin from '../../assets/linkedin.png'
+import Whatsapp from '../../assets/whatsapp.png'
+import '../Footer/Footer.css'
 
 function Footer() {
   return (
