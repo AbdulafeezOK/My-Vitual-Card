@@ -3,7 +3,7 @@
   }
 @media screen and (max-width: 450px) {
     .Social {
-        margin: 8px;
+        margin: 0;
         padding: 5px;
     }
 }
