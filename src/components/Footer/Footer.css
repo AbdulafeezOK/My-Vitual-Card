@@ -1,0 +1,8 @@
+.Social {
+    padding: 10px;
+  }
+@media (max-width: 300px) {
+    .Social {
+        padding: 0;
+    }
+}
