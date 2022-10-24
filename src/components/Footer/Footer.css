@@ -1,7 +1,7 @@
 .Social {
     padding: 10px;
   }
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 450px) {
     .Social {
         margin: 8px;
         padding: 5px;
