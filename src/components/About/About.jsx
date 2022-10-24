@@ -9,8 +9,8 @@ function About(prop) {
         <p>Okunlola Abdulafeez shola is a Front-End web developer and Electrical technologist
           , he holds a Higher National Diploma certificate of Electrical and Electronic Engineering 
           Technology from Kwara State Polytechnic, Ilorin. Responsive web designer certification from 
-          freeCodeCamp and currently learning advanced react from Meta to earn a Meta Front-End developer
-           professional certificate a seven month courses through coursera. 
+          freeCodeCamp and currently learning web development from Meta to earn Meta Front-End developer
+           professional certificate a seven months online course through coursera. 
         </p>
     </div>
   )
